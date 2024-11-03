@@ -1,4 +1,4 @@
-# Alfresco AIO Project - SDK 4.9
+# Uploader Plus -  Alfresco AIO Project - SDK 4.9
 
 This is an All-In-One (AIO) project for Alfresco SDK 4.9.
 
@@ -44,3 +44,7 @@ All the services of the project are now run as docker containers. The run script
 
   * Abstract assembly into a dependency so we don't have to ship the assembly in the archetype
   * Functional/remote unit tests
+
+# Contributors
+
+- Bhagya Silva (Loftux AB)
